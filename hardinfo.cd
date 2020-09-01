@@ -1,0 +1,1402 @@
+[CPU Blowfish]
+Purism_Librem_5r3;(Unknown);6000_00=8.808984; 8.808984; 4|4|Purism Librem 5r3|(Unknown)|4x ARM Cortex-A53 r0p4 (AArch64)|4x 1500.00 MHz|3000344|1|4|4|(Unknown)
+[CPU CryptoHash]
+Purism_Librem_5r3;(Unknown);6000_00=138.562098; 2.251698; 4|4|Purism Librem 5r3|(Unknown)|4x ARM Cortex-A53 r0p4 (AArch64)|4x 1500.00 MHz|3000344|1|4|4|(Unknown)
+[CPU Fibonacci]
+Purism_Librem_5r3;(Unknown);6000_00=3.356431; 3.356431; 1|1|Purism Librem 5r3|(Unknown)|4x ARM Cortex-A53 r0p4 (AArch64)|4x 1500.00 MHz|3000344|1|4|4|(Unknown)
+[CPU N-Queens]
+Purism_Librem_5r3;(Unknown);6000_00=5.306735; 5.306735; 4|4|Purism Librem 5r3|(Unknown)|4x ARM Cortex-A53 r0p4 (AArch64)|4x 1500.00 MHz|3000344|1|4|4|(Unknown)
+[CPU Zlib]
+Purism_Librem_5r3;(Unknown);6000_00=0.176304; 22.120844; 4|4|Purism Librem 5r3|(Unknown)|4x ARM Cortex-A53 r0p4 (AArch64)|4x 1500.00 MHz|3000344|1|4|4|(Unknown)
+[FPU FFT]
+Purism_Librem_5r3;(Unknown);6000_00=9.856563; 9.856563; 4|4|Purism Librem 5r3|(Unknown)|4x ARM Cortex-A53 r0p4 (AArch64)|4x 1500.00 MHz|3000344|1|4|4|(Unknown)
+[FPU Raytracing]
+Purism_Librem_5r3;(Unknown);6000_00=5.082593; 5.082593; 4|4|Purism Librem 5r3|(Unknown)|4x ARM Cortex-A53 r0p4 (AArch64)|4x 1500.00 MHz|3000344|1|4|4|(Unknown)
+
+Computer
+********
+
+
+Summary
+-------
+
+-Computer-
+Processor		: (Unknown)
+Memory		: 3000MB (518MB used)
+Machine Type		: Laptop
+Operating System		: PureOS
+User Name		: root (root)
+Date/Time		: Mon Aug 31 21:24:54 2020
+-Display-
+Resolution		: 0x0 pixels
+OpenGL Renderer		: (Unknown)
+X11 Vendor		: (null)
+-Audio Devices-
+Audio Adapter		: wm8962 - wm8962
+Audio Adapter		: MODEM - MODEM
+-Input Devices-
+ generic ft5x06 (f0)
+ gpio-keys
+ bd718xx-pwrkey
+ 30370000.snvs:snvs-powerkey
+ pwm-vibrator
+ WM8962 Beep Generator
+ wm8962 Headphones
+ RK-Bluetooth keyboard Keyboard
+ RK-Bluetooth keyboard Consumer Control
+ RK-Bluetooth keyboard System Control
+-Printers-
+No printers found
+
+Operating System
+----------------
+
+-Version-
+Kernel		: Linux 5.7.0-1-librem5 (aarch64)
+Version		: #1 SMP PREEMPT Tue Aug 18 13:08:04 UTC 2020
+C Library		: GNU C Library / (Debian GLIBC 2.28-10) 2.28
+Distribution		: PureOS
+-Current Session-
+Computer Name		: pureos
+User Name		: root (root)
+Language		: C.UTF-8 (C.UTF-8)
+Home Directory		: /root
+-Misc-
+Uptime		: 2 hours 5 minutes
+Load Average		: 0.81, 0.87, 0.41
+Available entropy in /dev/random		: 3104 bits (healthy)
+
+Kernel Modules
+--------------
+
+-Loaded Modules-
+hidp		: Bluetooth HIDP ver 1.2
+binfmt_misc
+aes_ce_ccm		: Synchronous AES in CCM mode using ARMv8 Crypto Extensions
+qmi_wwan		: Qualcomm MSM Interface (QMI) WWAN driver
+cdc_wdm		: USB Abstract Control Model driver for USB WCM Device Management
+option		: USB Driver for GSM modems
+usbnet		: USB network driver framework
+usb_wwan		: USB Driver for GSM modems
+usbserial		: USB Serial Driver core
+mii		: MII hardware support library
+rfcomm		: Bluetooth RFCOMM ver 1.11
+bnep		: Bluetooth BNEP ver 1.3
+redpine_sdio		: Common SDIO layer for RSI drivers
+redpine_91x		: Station driver for RSI 91x devices
+bluetooth		: Bluetooth Core ver 2.22
+mac80211		: IEEE 802.11 subsystem
+caam_jr		: FSL CAAM JR request backend
+caamhash_desc		: FSL CAAM ahash descriptors support
+caamalg_desc		: FSL CAAM descriptor support
+crypto_engine		: Crypto hardware engine framework
+cfg80211		: wireless configuration support
+aes_ce_blk		: AES-ECB/CBC/CTR/XTS using ARMv8 Crypto Extensions
+crypto_simd
+rfkill		: RF switch support
+st_lsm6dsx_spi		: STMicroelectronics st_lsm6dsx spi driver
+crct10dif_ce
+ghash_ce		: GHASH and AES-GCM using ARMv8 Crypto Extensions
+sha2_ce		: SHA-224/SHA-256 secure hash using ARMv8 Crypto Extensions
+sha1_ce		: SHA1 secure hash using ARMv8 Crypto Extensions
+pwm_vibra		: PWM vibrator driver
+snd_soc_simple_card		: ASoC Simple Sound Card
+snd_soc_gtm601		: ASoC gtm601 driver
+snd_soc_simple_card_utils		: ALSA SoC Simple Card Utils
+vcnl4000		: Vishay VCNL4000 proximity/ambient light sensor driver
+bq25890_charger		: bq25890 charger driver
+tps6598x		: TI TPS6598x USB Power Delivery Controller Driver
+snd_soc_wm8962		: ASoC WM8962 driver
+st_lsm6dsx_i2c		: STMicroelectronics st_lsm6dsx i2c driver
+st_lsm6dsx		: STMicroelectronics st_lsm6dsx driver
+mousedev		: Mouse (ExplorerPS/2) device interfaces
+kfifo_buf
+gnss_mtk		: Mediatek GNSS receiver driver
+gnss_serial		: Generic serial GNSS receiver driver
+gnss		: GNSS receiver core
+snd_soc_fsl_sai		: Freescale Soc SAI Interface
+imx_pcm_dma
+typec		: USB Type-C Connector Class
+snd_soc_core		: ALSA SoC Core
+snd_pcm_dmaengine
+snd_pcm		: Midlevel PCM code for ALSA.
+spi_nor		: framework for SPI NOR
+snd_timer		: ALSA timer interface
+caam		: FSL CAAM request backend
+mtd		: Core MTD registration and access routines
+snvs_pwrkey		: i.MX snvs power key Driver
+error		: FSL CAAM error reporting
+snd		: Advanced Linux Sound Architecture driver for soundcards.
+imx2_wdt		: Watchdog driver for IMX2 and later
+watchdog		: WatchDog Timer Driver Core
+soundcore		: Core sound module
+imx_sdma		: i.MX SDMA driver
+virt_dma
+ledtrig_timer		: Timer LED trigger
+usb_f_acm
+u_serial
+usb_f_rndis
+g_multi		: Multifunction Composite Gadget
+usb_f_mass_storage
+u_ether
+libcomposite
+ledtrig_pattern		: LED Pattern trigger
+ip_tables		: IPv4 packet filter
+x_tables		: {ip,ip6,arp,eb}_tables backend module
+ipv6		: IPv6 protocol stack for Linux
+nf_defrag_ipv6
+uas
+usb_storage		: USB Mass Storage driver for Linux
+xhci_plat_hcd		: xHCI Platform Host Controller Driver
+xhci_hcd		: &apos;eXtensible&apos; Host Controller (xHC) Driver
+usbcore
+dwc3		: DesignWare USB3 DRD Controller Driver
+ulpi		: USB ULPI PHY bus
+udc_core		: UDC Framework
+roles		: USB Role Class
+phy_fsl_imx8mq_usb		: FSL IMX8MQ USB PHY driver
+usb_common
+clk_bd718x7		: BD71837/BD71847/BD70528 chip clk driver
+
+Boots
+-----
+
+-Boots-
+Mon Aug 31 19:19		: 5.7.0-1-librem5
+Sat Aug 29 20:11		: 5.7.0-1-librem5
+Sat Aug 29 20:11		: 5.7.0-1-librem5
+Sat Aug 29 20:06		: 5.7.0-1-librem5
+Thu Aug 27 21:00		: 5.7.0-1-librem5
+Thu Aug 27 20:58		: 5.7.0-1-librem5
+Thu Aug 27 20:41		: 5.7.0-1-librem5
+Wed Aug 26 10:50		: 5.7.0-1-librem5
+Sun Aug 23 12:31		: 5.7.0-1-librem5
+Sun Aug 23 12:30		: 5.7.0-1-librem5
+Sun Aug 23 10:25		: 5.7.0-1-librem5
+Sat Aug 22 09:20		: 5.7.0-1-librem5
+Sat Aug 22 07:51		: 5.7.0-1-librem5
+Sat Aug 22 07:21		: 5.7.0-1-librem5
+Sat Aug 22 06:42		: 5.7.0-1-librem5
+Fri Aug 21 16:38		: 5.7.0-1-librem5
+Fri Aug 21 12:25		: 5.7.0-1-librem5
+Thu Aug 20 12:27		: 5.7.0-1-librem5
+Thu Aug 20 11:51		: 5.7.0-1-librem5
+Thu Aug 20 03:37		: 5.7.0-1-librem5
+Wed Aug 19 06:55		: 5.7.0-1-librem5
+Wed Aug 19 06:54		: 5.7.0-1-librem5
+Wed Aug 19 06:53		: 5.7.0-1-librem5
+Wed Aug 19 06:28		: 5.7.0-1-librem5
+Tue Aug 18 12:41		: 5.7.0-1-librem5
+Mon Aug 17 18:43		: 5.7.0-1-librem5
+Sun Aug 16 16:46		: 5.7.0-1-librem5
+Sun Aug 16 16:45		: 5.7.0-1-librem5
+Sun Aug 16 16:00		: 5.7.0-1-librem5
+Sun Aug 16 15:13		: 5.7.0-1-librem5
+Sat Aug 15 08:58		: 5.7.0-1-librem5
+Fri Aug 14 19:55		: 5.7.0-1-librem5
+Fri Aug 14 17:52		: 5.7.0-1-librem5
+Fri Aug 14 15:54		: 5.7.0-1-librem5
+Fri Aug 14 15:33		: 5.7.0-1-librem5
+Fri Aug 14 15:27		: 5.7.0-1-librem5
+Fri Aug 14 15:23		: 5.7.0-1-librem5
+Fri Aug 14 15:22		: 5.7.0-1-librem5
+Wed Dec 31 19:00		: 5.7.0-1-librem5
+Wed Dec 31 19:00		: 5.7.0-1-librem5
+Thu Oct 11 07:27		: 5.7.0-1-librem5
+
+Languages
+---------
+
+-Available Languages-
+ar_SA.utf8		: Arabic locale for Saudi Arabia
+de_DE.utf8		: German locale for Germany
+en_US.utf8		: English locale for the USA
+es_ES.utf8		: Spanish locale for Spain
+fr_FR.utf8		: French locale for France
+ru_RU.utf8		: Russian locale for Russia
+C.UTF-8		: C locale
+
+Filesystems
+-----------
+
+-Mounted File Systems-
+udev	/dev	0.00 % (1.3 GiB of 1.3 GiB)	
+tmpfs	/run	0.42 % (291.8 MiB of 293.0 MiB)	
+/dev/mmcblk0p2	/	14.05 % (24.2 GiB of 28.2 GiB)	
+tmpfs	/dev/shm	0.06 % (1.4 GiB of 1.4 GiB)	
+tmpfs	/run/lock	0.00 % (5.0 MiB of 5.0 MiB)	
+tmpfs	/sys/fs/cgroup	0.00 % (1.4 GiB of 1.4 GiB)	
+/dev/mmcblk0p1	/boot	29.91 % (315.6 MiB of 450.3 MiB)	
+tmpfs	/run/user/1000	2.70 % (285.1 MiB of 293.0 MiB)	
+
+Display
+-------
+
+-Display-
+Resolution		: 0x0 pixels
+Vendor		: (null)
+Version		: (null)
+Current Display Name		: (null)
+-Monitors-
+-OpenGL-
+Vendor		: (Unknown)
+Renderer		: (Unknown)
+Version		: (Unknown)
+Direct Rendering		: No
+-Extensions-
+
+Environment Variables
+---------------------
+
+-Environment Variables-
+COLORTERM		: truecolor
+LANG		: C.UTF-8
+LS_COLORS		: rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+TERM		: xterm-256color
+DISPLAY		: :0
+PATH		: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+MAIL		: /var/mail/root
+LOGNAME		: root
+USER		: root
+HOME		: /root
+SHELL		: /bin/bash
+SUDO_COMMAND		: /usr/bin/hardinfo -r
+SUDO_USER		: purism
+SUDO_UID		: 1000
+SUDO_GID		: 1000
+
+Development
+-----------
+
+-Scripting Languages-
+Gambas3 (gbr3)		: Not found
+Python		: Not found
+Python2		: Not found
+Python3		: 3.7.3
+Perl		: 5.28.1
+Perl6 (VM)		: Not found
+Perl6		: Not found
+PHP		: Not found
+Ruby		: Not found
+Bash		: 5.0.3(1)-release
+-Compilers-
+C (GCC)		: Not found
+C (Clang)		: Not found
+D (dmd)		: Not found
+Gambas3 (gbc3)		: Not found
+Java		: Not found
+CSharp (Mono, old)		: Not found
+CSharp (Mono)		: Not found
+Vala		: Not found
+Haskell (GHC)		: Not found
+FreePascal		: Not found
+Go		: Not found
+-Tools-
+make		: Not found
+GDB		: Not found
+strace		: Not found
+valgrind		: Not found
+QMake		: Not found
+CMake		: Not found
+Gambas3 IDE		: Not found
+
+Users
+-----
+
+-Users-
+root		: root
+daemon		: daemon
+bin		: bin
+sys		: sys
+sync		: sync
+games		: games
+man		: man
+lp		: lp
+mail		: mail
+news		: news
+uucp		: uucp
+proxy		: proxy
+www-data		: www-data
+backup		: backup
+list		: Mailing List Manager
+irc		: ircd
+gnats		: Gnats Bug-Reporting System (admin)
+nobody		: nobody
+systemd-timesync		: systemd Time Synchronization
+systemd-network		: systemd Network Management
+systemd-resolve		: systemd Resolver
+_apt
+purism		: purism
+messagebus
+dnsmasq		: dnsmasq
+pulse		: PulseAudio daemon
+colord		: colord colour management daemon
+geoclue
+gnome-initial-setup
+systemd-coredump		: systemd Core Dumper
+sshd
+
+Groups
+------
+
+-Group-
+root		: 0
+daemon		: 1
+bin		: 2
+sys		: 3
+adm		: 4
+tty		: 5
+disk		: 6
+lp		: 7
+mail		: 8
+news		: 9
+uucp		: 10
+man		: 12
+proxy		: 13
+kmem		: 15
+dialout		: 20
+fax		: 21
+voice		: 22
+cdrom		: 24
+floppy		: 25
+tape		: 26
+sudo		: 27
+audio		: 29
+dip		: 30
+www-data		: 33
+backup		: 34
+operator		: 37
+list		: 38
+irc		: 39
+src		: 40
+gnats		: 41
+shadow		: 42
+utmp		: 43
+video		: 44
+sasl		: 45
+plugdev		: 46
+staff		: 50
+games		: 60
+users		: 100
+nogroup		: 65534
+systemd-journal		: 101
+systemd-timesync		: 102
+systemd-network		: 103
+systemd-resolve		: 104
+crontab		: 105
+input		: 106
+kvm		: 107
+render		: 108
+netdev		: 109
+purism		: 1000
+messagebus		: 110
+bluetooth		: 111
+i2c		: 112
+scanner		: 113
+pulse		: 114
+pulse-access		: 115
+colord		: 116
+geoclue		: 117
+systemd-coredump		: 999
+ssh		: 118
+
+Devices
+*******
+
+
+Device Tree
+-----------
+
+-Device Tree-
+Summary
+Maps
+/
+/clock-osc-27m
+/clock-ckil
+/pwmleds
+/pwmleds/green
+/pwmleds/red
+/pwmleds/blue
+/soc@0
+/soc@0/gpu@38000000
+/soc@0/bus@30800000
+/soc@0/bus@30800000/spi@30820000
+/soc@0/bus@30800000/spi@30820000/flash@0
+/soc@0/bus@30800000/i2c@30a50000
+/soc@0/bus@30800000/i2c@30a50000/charger@6a
+/soc@0/bus@30800000/i2c@30a50000/vcm@0c
+/soc@0/bus@30800000/i2c@30a50000/camera2@10
+/soc@0/bus@30800000/i2c@30a50000/fuel-gauge@36
+/soc@0/bus@30800000/serial@30a60000
+/soc@0/bus@30800000/mmc@30b40000
+/soc@0/bus@30800000/spi@30830000
+/soc@0/bus@30800000/i2c@30a20000
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/BUCK4
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/BUCK2
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/LDO7
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/LDO5
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/LDO3
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/BUCK7
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/LDO1
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/BUCK5
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/BUCK3
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/BUCK1
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/LDO6
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/LDO4
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/BUCK8
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/LDO2
+/soc@0/bus@30800000/i2c@30a20000/pmic@4b/regulators/BUCK6
+/soc@0/bus@30800000/i2c@30a20000/usb-pd@3f
+/soc@0/bus@30800000/i2c@30a20000/usb-pd@3f/connector
+/soc@0/bus@30800000/i2c@30a20000/usb-pd@3f/connector/ports
+/soc@0/bus@30800000/i2c@30a20000/usb-pd@3f/connector/ports/port@0
+/soc@0/bus@30800000/i2c@30a20000/usb-pd@3f/connector/ports/port@0/endpoint
+/soc@0/bus@30800000/i2c@30a20000/usb-pd@3f/connector/ports/port@1
+/soc@0/bus@30800000/i2c@30a20000/usb-pd@3f/connector/ports/port@1/endpoint
+/soc@0/bus@30800000/i2c@30a20000/rtc@68
+/soc@0/bus@30800000/crypto@30900000
+/soc@0/bus@30800000/crypto@30900000/jr@2000
+/soc@0/bus@30800000/crypto@30900000/jr@1000
+/soc@0/bus@30800000/crypto@30900000/jr@3000
+/soc@0/bus@30800000/spi@30bb0000
+/soc@0/bus@30800000/serial@30880000
+/soc@0/bus@30800000/mmc@30b50000
+/soc@0/bus@30800000/spi@30840000
+/soc@0/bus@30800000/i2c@30a30000
+/soc@0/bus@30800000/i2c@30a30000/regulator@3e
+/soc@0/bus@30800000/i2c@30a30000/regulator@3e/outn
+/soc@0/bus@30800000/i2c@30a30000/regulator@3e/outp
+/soc@0/bus@30800000/i2c@30a30000/flash@53
+/soc@0/bus@30800000/i2c@30a30000/flash@53/torch@1
+/soc@0/bus@30800000/i2c@30a30000/flash@53/flash@0
+/soc@0/bus@30800000/i2c@30a30000/magnetometer@1e
+/soc@0/bus@30800000/i2c@30a30000/prox@60
+/soc@0/bus@30800000/i2c@30a30000/accel-gyro@6a
+/soc@0/bus@30800000/sdma@30bd0000
+/soc@0/bus@30800000/sai@308b0000
+/soc@0/bus@30800000/serial@30890000
+/soc@0/bus@30800000/serial@30890000/gnss
+/soc@0/bus@30800000/mipi-dsi@30a00000
+/soc@0/bus@30800000/mipi-dsi@30a00000/panel@0
+/soc@0/bus@30800000/mipi-dsi@30a00000/panel@0/port
+/soc@0/bus@30800000/mipi-dsi@30a00000/panel@0/port/endpoint
+/soc@0/bus@30800000/mipi-dsi@30a00000/ports
+/soc@0/bus@30800000/mipi-dsi@30a00000/ports/port@0
+/soc@0/bus@30800000/mipi-dsi@30a00000/ports/port@0/endpoint@0
+/soc@0/bus@30800000/mipi-dsi@30a00000/ports/port@1
+/soc@0/bus@30800000/mipi-dsi@30a00000/ports/port@1/endpoint
+/soc@0/bus@30800000/ethernet@30be0000
+/soc@0/bus@30800000/i2c@30a40000
+/soc@0/bus@30800000/i2c@30a40000/camera1@20
+/soc@0/bus@30800000/i2c@30a40000/touchscreen@38
+/soc@0/bus@30800000/i2c@30a40000/backlight@36
+/soc@0/bus@30800000/i2c@30a40000/backlight@36/led@0
+/soc@0/bus@30800000/i2c@30a40000/codec@1a
+/soc@0/bus@30800000/dphy@30a00300
+/soc@0/bus@30800000/serial@30860000
+/soc@0/bus@30800000/sai@308c0000
+/soc@0/usb@38200000
+/soc@0/usb@38200000/hub@1
+/soc@0/usb@38200000/hub@1/mass-storage@1
+/soc@0/pcie@33c00000
+/soc@0/interrupt-controller@38800000
+/soc@0/ddr-pmu@3d800000
+/soc@0/usb@38100000
+/soc@0/usb@38100000/port@0
+/soc@0/usb@38100000/port@0/endpoint
+/soc@0/usb@38100000/port@1
+/soc@0/usb@38100000/port@1/endpoint
+/soc@0/bus@30000000
+/soc@0/bus@30000000/sai@30040000
+/soc@0/bus@30000000/snvs@30370000
+/soc@0/bus@30000000/snvs@30370000/snvs-powerkey
+/soc@0/bus@30000000/snvs@30370000/snvs-rtc-lp
+/soc@0/bus@30000000/ocotp-ctrl@30350000
+/soc@0/bus@30000000/ocotp-ctrl@30350000/speed-grade@10
+/soc@0/bus@30000000/clock-controller@30380000
+/soc@0/bus@30000000/syscon@30340000
+/soc@0/bus@30000000/syscon@30340000/mux-controller
+/soc@0/bus@30000000/gpio@30230000
+/soc@0/bus@30000000/watchdog@30280000
+/soc@0/bus@30000000/sai@30010000
+/soc@0/bus@30000000/sai@30050000
+/soc@0/bus@30000000/gpc@303a0000
+/soc@0/bus@30000000/gpc@303a0000/pgc
+/soc@0/bus@30000000/gpc@303a0000/pgc/power-domain@0
+/soc@0/bus@30000000/gpc@303a0000/pgc/power-domain@9
+/soc@0/bus@30000000/gpc@303a0000/pgc/power-domain@7
+/soc@0/bus@30000000/gpc@303a0000/pgc/power-domain@5
+/soc@0/bus@30000000/gpc@303a0000/pgc/power-domain@3
+/soc@0/bus@30000000/gpc@303a0000/pgc/power-domain@a
+/soc@0/bus@30000000/gpc@303a0000/pgc/power-domain@1
+/soc@0/bus@30000000/gpc@303a0000/pgc/power-domain@8
+/soc@0/bus@30000000/gpc@303a0000/pgc/power-domain@6
+/soc@0/bus@30000000/gpc@303a0000/pgc/power-domain@4
+/soc@0/bus@30000000/gpc@303a0000/pgc/power-domain@2
+/soc@0/bus@30000000/sdma@302c0000
+/soc@0/bus@30000000/gpio@30200000
+/soc@0/bus@30000000/gpio@30200000/pmic-5v
+/soc@0/bus@30000000/gpio@30240000
+/soc@0/bus@30000000/watchdog@30290000
+/soc@0/bus@30000000/gpio@30210000
+/soc@0/bus@30000000/syscon@30360000
+/soc@0/bus@30000000/lcdif@30320000
+/soc@0/bus@30000000/lcdif@30320000/port@0
+/soc@0/bus@30000000/lcdif@30320000/port@0/endpoint
+/soc@0/bus@30000000/sai@30030000
+/soc@0/bus@30000000/pinctrl@30330000
+/soc@0/bus@30000000/pinctrl@30330000/uart4grp
+/soc@0/bus@30000000/pinctrl@30330000/hubnresetgrp
+/soc@0/bus@30000000/pinctrl@30330000/uart1grp
+/soc@0/bus@30000000/pinctrl@30330000/tcpcgrp
+/soc@0/bus@30000000/pinctrl@30330000/rtcgrp
+/soc@0/bus@30000000/pinctrl@30330000/smcgrp
+/soc@0/bus@30000000/pinctrl@30330000/ledrgrp
+/soc@0/bus@30000000/pinctrl@30330000/proxgrp
+/soc@0/bus@30000000/pinctrl@30330000/ledggrp
+/soc@0/bus@30000000/pinctrl@30330000/wdoggrp
+/soc@0/bus@30000000/pinctrl@30330000/hswgrp
+/soc@0/bus@30000000/pinctrl@30330000/usdhc1grp200mhz
+/soc@0/bus@30000000/pinctrl@30330000/smcbootgrp
+/soc@0/bus@30000000/pinctrl@30330000/typecgrp
+/soc@0/bus@30000000/pinctrl@30330000/cameragrp
+/soc@0/bus@30000000/pinctrl@30330000/hubpwrgrp
+/soc@0/bus@30000000/pinctrl@30330000/wwanpwrgrp
+/soc@0/bus@30000000/pinctrl@30330000/camerapwrgrp
+/soc@0/bus@30000000/pinctrl@30330000/flashpwrgrp
+/soc@0/bus@30000000/pinctrl@30330000/usdhc1grp100mhz
+/soc@0/bus@30000000/pinctrl@30330000/i2c2grp
+/soc@0/bus@30000000/pinctrl@30330000/wwangrp
+/soc@0/bus@30000000/pinctrl@30330000/usdhc2grp
+/soc@0/bus@30000000/pinctrl@30330000/wifigrp
+/soc@0/bus@30000000/pinctrl@30330000/usdhc2grp200mhz
+/soc@0/bus@30000000/pinctrl@30330000/uart3grp
+/soc@0/bus@30000000/pinctrl@30330000/maggrp
+/soc@0/bus@30000000/pinctrl@30330000/sai6grp
+/soc@0/bus@30000000/pinctrl@30330000/dsiengrp
+/soc@0/bus@30000000/pinctrl@30330000/sai3grp
+/soc@0/bus@30000000/pinctrl@30330000/gaugegrp
+/soc@0/bus@30000000/pinctrl@30330000/usdhc2grp100mhz
+/soc@0/bus@30000000/pinctrl@30330000/flashgrp
+/soc@0/bus@30000000/pinctrl@30330000/pmicgrp
+/soc@0/bus@30000000/pinctrl@30330000/dsibiasengrp
+/soc@0/bus@30000000/pinctrl@30330000/chargergrp
+/soc@0/bus@30000000/pinctrl@30330000/i2c4grp
+/soc@0/bus@30000000/pinctrl@30330000/i2c1grp
+/soc@0/bus@30000000/pinctrl@30330000/usdhc1grp
+/soc@0/bus@30000000/pinctrl@30330000/hapticgrp
+/soc@0/bus@30000000/pinctrl@30330000/wifipwrgrp
+/soc@0/bus@30000000/pinctrl@30330000/usbgrp
+/soc@0/bus@30000000/pinctrl@30330000/sdpwrgrp
+/soc@0/bus@30000000/pinctrl@30330000/pmic5vgrp
+/soc@0/bus@30000000/pinctrl@30330000/uart2grp
+/soc@0/bus@30000000/pinctrl@30330000/audiopwrgrp
+/soc@0/bus@30000000/pinctrl@30330000/sai2grp
+/soc@0/bus@30000000/pinctrl@30330000/dsirstgrp
+/soc@0/bus@30000000/pinctrl@30330000/ledbgrp
+/soc@0/bus@30000000/pinctrl@30330000/gnssgrp
+/soc@0/bus@30000000/pinctrl@30330000/hpgrp
+/soc@0/bus@30000000/pinctrl@30330000/nfcgrp
+/soc@0/bus@30000000/pinctrl@30330000/r3camerapwrgrp
+/soc@0/bus@30000000/pinctrl@30330000/keysgrp
+/soc@0/bus@30000000/pinctrl@30330000/spi1grp
+/soc@0/bus@30000000/pinctrl@30330000/csigrp
+/soc@0/bus@30000000/pinctrl@30330000/blgrp
+/soc@0/bus@30000000/pinctrl@30330000/btgrp
+/soc@0/bus@30000000/pinctrl@30330000/i2c3grp
+/soc@0/bus@30000000/pinctrl@30330000/hallgrp
+/soc@0/bus@30000000/pinctrl@30330000/gnsspwrgrp
+/soc@0/bus@30000000/pinctrl@30330000/chargeringrp
+/soc@0/bus@30000000/reset-controller@30390000
+/soc@0/bus@30000000/watchdog@302a0000
+/soc@0/bus@30000000/gpio@30220000
+/soc@0/bus@30000000/tmu@30260000
+/soc@0/pcie@33800000
+/soc@0/usb-phy@382f0040
+/soc@0/bus@32c00000
+/soc@0/bus@32c00000/interrupt-controller@32e2d000
+/soc@0/bus@32c00000/hdmi@32c00000
+/soc@0/bus@32c00000/display-controller@32e00000
+/soc@0/memory-controller@3d400000
+/soc@0/memory-controller@3d400000/ddrc-opp-table
+/soc@0/memory-controller@3d400000/ddrc-opp-table/opp-800M
+/soc@0/memory-controller@3d400000/ddrc-opp-table/opp-100M
+/soc@0/memory-controller@3d400000/ddrc-opp-table/opp-25M
+/soc@0/usb-phy@381f0040
+/soc@0/interconnect@32700000
+/soc@0/interconnect@32700000/opp-table
+/soc@0/interconnect@32700000/opp-table/opp-800M
+/soc@0/interconnect@32700000/opp-table/opp-400M
+/soc@0/interconnect@32700000/opp-table/opp-133M
+/soc@0/bus@30400000
+/soc@0/bus@30400000/pwm@30670000
+/soc@0/bus@30400000/pwm@30680000
+/soc@0/bus@30400000/pwm@30690000
+/soc@0/bus@30400000/pwm@30660000
+/soc@0/bus@30400000/timer@306a0000
+/regulator-vdd-sen
+/clock-osc-25m
+/sound-wwan
+/sound-wwan/simple-audio-card,cpu
+/sound-wwan/simple-audio-card,codec
+/regulator-vdd-1v8
+/regulator-lcd-3v4
+/thermal-zones
+/thermal-zones/cpu-thermal
+/thermal-zones/cpu-thermal/trips
+/thermal-zones/cpu-thermal/trips/cpu-crit
+/thermal-zones/cpu-thermal/trips/cpu-hot
+/thermal-zones/cpu-thermal/trips/cpu-alert
+/thermal-zones/cpu-thermal/cooling-maps
+/thermal-zones/cpu-thermal/cooling-maps/map0
+/thermal-zones/cpu-thermal/cooling-maps/map1
+/thermal-zones/vpu-thermal
+/thermal-zones/vpu-thermal/trips
+/thermal-zones/vpu-thermal/trips/vpu-crit
+/thermal-zones/gpu-thermal
+/thermal-zones/gpu-thermal/trips
+/thermal-zones/gpu-thermal/trips/gpu-alert
+/thermal-zones/gpu-thermal/trips/gpu-crit
+/thermal-zones/gpu-thermal/cooling-maps
+/thermal-zones/gpu-thermal/cooling-maps/map0
+/clock-ext3
+/vibrator
+/leds
+/leds/gnss-nreset
+/leds/bt-reg-on
+/leds/sd-en
+/leds/smc-en
+/leds/camera-en
+/leds/wwan-en
+/leds/wifi-en
+/leds/flash-strobe
+/leds/wwan-disable
+/leds/hub-nreset
+/leds/flash-en
+/leds/wwan-nreset
+/leds/chg-otg-en
+/leds/wwan-dis2
+/leds/chg-en
+/regulator-vdd-3v3
+/psci
+/clock-ext1
+/opp-table
+/opp-table/opp-1300000000
+/opp-table/opp-1500000000
+/opp-table/opp-1000000000
+/opp-table/opp-800000000
+/gpio-keys
+/gpio-keys/wwan
+/gpio-keys/vol-down
+/gpio-keys/camera
+/gpio-keys/vol-up
+/gpio-keys/wwan-wake
+/gpio-keys/wlan
+/dogwood_leds
+/dogwood_leds/smc-boot
+/dogwood_leds/camera-pwr
+/timer
+/regulator-vsys-3v4
+/regulator-audio-1v8
+/clock-pmic
+/regulator-wifi-3v3
+/aliases
+/sound
+/sound/simple-audio-card,cpu
+/sound/simple-audio-card,codec
+/regulator-lcd-1v8
+/chosen
+/regulator-hub
+/clock-ext4
+/backlight-dsi
+/pmu
+/cpus
+/cpus/cpu@1
+/cpus/l2-cache0
+/cpus/idle-states
+/cpus/idle-states/cpu-sleep
+/cpus/cpu@2
+/cpus/cpu@0
+/cpus/cpu@3
+/clock-ext2
+/sound-wwan-codec
+/regulator-audio-pwr-en
+/regulator-gnss
+/memory
+Messages
+
+Processor
+---------
+
+-Processors-
+SOC/Package Information
+ARM Cortex-A53 r0p4 (AArch64)		: 1500.00 MHz
+ARM Cortex-A53 r0p4 (AArch64)		: 1500.00 MHz
+ARM Cortex-A53 r0p4 (AArch64)		: 1500.00 MHz
+ARM Cortex-A53 r0p4 (AArch64)		: 1500.00 MHz
+
+Memory
+------
+
+-Memory-
+MemTotal	Total Memory	3000344 KiB	
+MemFree	Free Memory	1950204 KiB	
+MemAvailable		2352488 KiB	
+Buffers		26840 KiB	
+Cached		531620 KiB	
+SwapCached	Cached Swap	0 KiB	
+Active		474468 KiB	
+Inactive		383644 KiB	
+Active(anon)		332232 KiB	
+Inactive(anon)		21040 KiB	
+Active(file)		142236 KiB	
+Inactive(file)		362604 KiB	
+Unevictable		31556 KiB	
+Mlocked		16 KiB	
+SwapTotal	Virtual Memory	0 KiB	
+SwapFree	Free Virtual Memory	0 KiB	
+Dirty		388 KiB	
+Writeback		0 KiB	
+AnonPages		308244 KiB	
+Mapped		189216 KiB	
+Shmem		53624 KiB	
+KReclaimable		55724 KiB	
+Slab		110440 KiB	
+SReclaimable		55724 KiB	
+SUnreclaim		54716 KiB	
+KernelStack		5456 KiB	
+PageTables		8172 KiB	
+NFS_Unstable		0 KiB	
+Bounce		0 KiB	
+WritebackTmp		0 KiB	
+CommitLimit		1500172 KiB	
+Committed_AS		2242776 KiB	
+VmallocTotal		2146172864 KiB	
+VmallocUsed		13940 KiB	
+VmallocChunk		0 KiB	
+Percpu		1520 KiB	
+AnonHugePages		110592 KiB	
+ShmemHugePages		0 KiB	
+ShmemPmdMapped		0 KiB	
+FileHugePages		0 KiB	
+FilePmdMapped		0 KiB	
+CmaTotal		327680 KiB	
+CmaFree		312692 KiB	
+HugePages_Total		0	
+HugePages_Free		0	
+HugePages_Rsvd		0	
+HugePages_Surp		0	
+Hugepagesize		2048 KiB	
+Hugetlb		0 KiB	
+
+PCI Devices
+-----------
+
+-PCI Devices-
+
+USB Devices
+-----------
+
+-USB Devices-
+Linux Foundation 3.0 root hub
+
+Standard Microsystems Corp. Hub and media card controller
+Standard Microsystems Corp. USB 2.0 Hub
+Linux Foundation 2.0 root hub
+
+Printers
+--------
+
+-Printers-
+No printers found
+
+Battery
+-------
+
+-No batteries-
+No batteries found on this system
+
+Sensors
+-------
+
+-Sensors-
+../../thermal_zone0/temp1	Temperature	45.00°C	
+../../thermal_zone1/temp1	Temperature	45.00°C	
+../../thermal_zone2/temp1	Temperature	45.00°C	
+../../thermal_zone3/temp1	Temperature	48.50°C	
+../../max170xx_battery/temp1	Temperature	48.50°C	
+../../max170xx_battery/in0	Voltage	3.97V	
+../../bq25890-charger/in0	Voltage	3.98V	
+thermal/thermal_zone2	Temperature	46.00°C	
+thermal/thermal_zone0	Temperature	45.00°C	
+thermal/thermal_zone3	Temperature	48.50°C	
+thermal/thermal_zone1	Temperature	45.00°C	
+
+Input Devices
+-------------
+
+-Input Devices-
+ generic ft5x06 (f0)
+ gpio-keys
+ bd718xx-pwrkey
+ 30370000.snvs:snvs-powerkey
+ pwm-vibrator
+ WM8962 Beep Generator
+ wm8962 Headphones
+ RK-Bluetooth keyboard Keyboard
+ RK-Bluetooth keyboard Consumer Control
+ RK-Bluetooth keyboard System Control
+
+Storage
+-------
+
+
+Resources
+---------
+
+-I/O Ports-
+-Memory-
+<tt>30030000-3003ffff </tt>		: 30030000.sai
+<tt>30200000-3020ffff </tt>		: 30200000.gpio
+<tt>30210000-3021ffff </tt>		: 30210000.gpio
+<tt>30220000-3022ffff </tt>		: 30220000.gpio
+<tt>30230000-3023ffff </tt>		: 30230000.gpio
+<tt>30240000-3024ffff </tt>		: 30240000.gpio
+<tt>30260000-3026ffff </tt>		: 30260000.tmu
+<tt>30280000-3028ffff </tt>		: 30280000.watchdog
+<tt>302c0000-302cffff </tt>		: 302c0000.sdma
+<tt>30320000-3032ffff </tt>		: 30320000.lcdif
+<tt>30330000-3033ffff </tt>		: 30330000.pinctrl
+<tt>30350000-3035ffff </tt>		: 30350000.ocotp-ctrl
+<tt>30380000-3038ffff </tt>		: 30380000.clock-controller
+<tt>303a0000-303affff </tt>		: 303a0000.gpc
+<tt>30660000-3066ffff </tt>		: 30660000.pwm
+<tt>30670000-3067ffff </tt>		: 30670000.pwm
+<tt>30680000-3068ffff </tt>		: 30680000.pwm
+<tt>30690000-3069ffff </tt>		: 30690000.pwm
+<tt>30820000-3082ffff </tt>		: 30820000.spi
+<tt>30860000-3086ffff </tt>		: 30860000.serial
+<tt>30880000-3088ffff </tt>		: 30880000.serial
+<tt>30890000-3089ffff </tt>		: 30890000.serial
+<tt>308b0000-308bffff </tt>		: 308b0000.sai
+<tt>30900000-3093ffff </tt>		: 30900000.crypto
+<tt>30a00000-30a002ff </tt>		: 30a00000.mipi-dsi
+<tt>30a00300-30a003ff </tt>		: 30a00300.dphy
+<tt>30a20000-30a2ffff </tt>		: 30a20000.i2c
+<tt>30a30000-30a3ffff </tt>		: 30a30000.i2c
+<tt>30a40000-30a4ffff </tt>		: 30a40000.i2c
+<tt>30a50000-30a5ffff </tt>		: 30a50000.i2c
+<tt>30a60000-30a6ffff </tt>		: 30a60000.serial
+<tt>30b40000-30b4ffff </tt>		: 30b40000.mmc
+<tt>30b50000-30b5ffff </tt>		: 30b50000.mmc
+<tt>30bd0000-30bdffff </tt>		: 30bd0000.sdma
+<tt>32e2d000-32e2dfff </tt>		: 32e2d000.interrupt-controller
+<tt>38000000-3803ffff </tt>		: 38000000.gpu
+<tt>3810c100-3810ffff </tt>		: 38100000.usb
+<tt>381f0040-381f007f </tt>		: 381f0040.usb-phy
+<tt>38200000-38207fff </tt>		: usb@38200000
+<tt>  38200000-38207fff </tt>		: xhci-hcd.4.auto
+<tt>3820c100-3820ffff </tt>		: 38200000.usb
+<tt>382f0040-382f007f </tt>		: 382f0040.usb-phy
+<tt>3d800000-3dbfffff </tt>		: 3d800000.ddr-pmu
+<tt>40000000-ffffffff </tt>		: System RAM
+<tt>  7bfff000-7fffefff </tt>		: reserved
+<tt>  80880000-8174ffff </tt>		: Kernel code
+<tt>  81750000-8182ffff </tt>		: reserved
+<tt>  81830000-81a30fff </tt>		: Kernel data
+<tt>  e7000000-e9ffffff </tt>		: reserved
+<tt>  ea200000-fe3fffff </tt>		: reserved
+<tt>  fe59a000-fe606fff </tt>		: reserved
+<tt>  fe609000-ff528fff </tt>		: reserved
+<tt>  ff540000-ff940fff </tt>		: reserved
+<tt>  ff941000-ff9bcfff </tt>		: reserved
+<tt>  ff9bf000-ff9c0fff </tt>		: reserved
+<tt>  ff9c1000-ff9c1fff </tt>		: reserved
+<tt>  ff9c2000-ff9c4fff </tt>		: reserved
+<tt>  ff9c5000-ff9c5fff </tt>		: reserved
+<tt>  ff9c6000-ffffffff </tt>		: reserved
+
+Network
+*******
+
+
+Interfaces
+----------
+
+-Network Interfaces-
+lo	0.01MiB	0.01MiB	127.0.0.1	
+usb0	0.00MiB	0.00MiB		
+wlan0	10.46MiB	0.30MiB	192.168.1.217	
+wwan0	0.00MiB	0.00MiB		
+
+IP Connections
+--------------
+
+-Connections-
+0.0.0.0:5355		0.0.0.0:*	udp	
+127.0.0.53:53		0.0.0.0:*	udp	
+0.0.0.0:22	LISTEN	0.0.0.0:*	tcp	
+:::5355		:::*	udp6	
+:::22	LISTEN	:::*	tcp6	
+0.0.0.0:5355		0.0.0.0:*	udp	
+127.0.0.53:53		0.0.0.0:*	udp	
+0.0.0.0:68		0.0.0.0:*	udp	
+:::5355		:::*	udp6	
+
+Routing Table
+-------------
+
+-IP routing table-
+0.0.0.0 / 192.168.1.1	0.0.0.0	UG	wlan0	
+192.168.1.0 / 0.0.0.0	255.255.255.0	U	wlan0	
+
+ARP Table
+---------
+
+-ARP Table-
+192.168.1.1	48:5d:36:8e:62:32	wlan0	
+
+DNS Servers
+-----------
+
+-Name Servers-
+192.168.1.1		: Fios_Quantum_Gateway.fios-router.home
+
+Statistics
+----------
+
+-IP-
+<b> </b>		: Forwarding: 2
+<b> </b>		: 7966 total packets received
+<b> </b>		: 2 with invalid addresses
+<b> </b>		: 0 forwarded
+<b> </b>		: 0 incoming packets discarded
+<b> </b>		: 7258 incoming packets delivered
+<b> </b>		: 3639 requests sent out
+<b> </b>		: 20 outgoing packets dropped
+<b> </b>		: 10 dropped because of missing route
+-ICMP-
+<b> </b>		: 41 ICMP messages received
+<b> </b>		: 0 input ICMP message failed
+<b> </b>		: ICMP input histogram:
+<b> </b>		: destination unreachable: 40
+<b> </b>		: echo requests: 1
+<b> </b>		: 41 ICMP messages sent
+<b> </b>		: 0 ICMP messages failed
+<b> </b>		: ICMP output histogram:
+<b> </b>		: destination unreachable: 40
+<b> </b>		: echo replies: 1
+-ICMPMSG-
+<b> </b>		: InType3: 40
+<b> </b>		: InType8: 1
+<b> </b>		: OutType0: 1
+<b> </b>		: OutType3: 40
+-TCP-
+<b> </b>		: 17 active connection openings
+<b> </b>		: 0 passive connection openings
+<b> </b>		: 14 failed connection attempts
+<b> </b>		: 1 connection resets received
+<b> </b>		: 0 connections established
+<b> </b>		: 7073 segments received
+<b> </b>		: 3546 segments sent out
+<b> </b>		: 0 segments retransmitted
+<b> </b>		: 1 bad segments received
+<b> </b>		: 15 resets sent
+<b> </b>		: InCsumErrors: 1
+-UDP-
+<b> </b>		: 23 packets received
+<b> </b>		: 40 packets to unknown port received
+<b> </b>		: 0 packet receive errors
+<b> </b>		: 59 packets sent
+<b> </b>		: 0 receive buffer errors
+<b> </b>		: 0 send buffer errors
+<b> </b>		: IgnoredMulti: 90
+-UDPLITE-
+-TCPEXT-
+<b> </b>		: 2 TCP sockets finished time wait in fast timer
+<b> </b>		: 9 delayed acks sent
+<b> </b>		: 1 delayed acks further delayed because of locked socket
+<b> </b>		: Quick ack mode was activated 2 times
+<b> </b>		: 6616 packet headers predicted
+<b> </b>		: 4 acknowledgments not containing data payload received
+<b> </b>		: 3 predicted acknowledgments
+<b> </b>		: TCPBacklogCoalesce: 74
+<b> </b>		: TCPDSACKOldSent: 2
+<b> </b>		: 1 connections reset due to early user close
+<b> </b>		: TCPRcvCoalesce: 2618
+<b> </b>		: TCPOFOQueue: 95
+<b> </b>		: TCPAutoCorking: 1
+<b> </b>		: TCPOrigDataSent: 21
+<b> </b>		: TCPDelivered: 23
+-IPEXT-
+<b> </b>		: InMcastPkts: 10
+<b> </b>		: OutMcastPkts: 8
+<b> </b>		: InBcastPkts: 90
+<b> </b>		: InOctets: 10821564
+<b> </b>		: OutOctets: 197908
+<b> </b>		: InMcastOctets: 480
+<b> </b>		: OutMcastOctets: 356
+<b> </b>		: InBcastOctets: 27876
+<b> </b>		: InNoECTPkts: 7966
+
+Shared Directories
+------------------
+
+-SAMBA-
+
+Benchmarks
+**********
+
+
+CPU Blowfish
+------------
+
+-CPU Blowfish-
+(Unknown)	4x 1500.00 MHz	8.81	
+Intel(R) Pentium(R) D CPU 3.00GHz	2x 3000.00 MHz	10.84	
+Intel(R) Celeron(R) CPU540@ 1.86GHz	1x 1861.00 MHz	25.49	
+AMD Turion(tm) 64 X2 TL-58	2x 800.00 MHz	12.58	
+AMD Athlon(tm) 64 X2 Dual Core Processor 3800+	2x 2200.00 MHz	10.71	
+AMD Athlon(tm) 64 X2 Dual Core Processor 6400+	2x 1000.00 MHz	6.42	
+Intel(R) Core(TM)2 Extreme CPU X7900@ 2.80GHz	2x 2800.00 MHz	6.81	
+Intel(R) Pentium(R) M processor 1.70GHz	1x 1700.00 MHz	28.28	
+AMD Phenom(tm) 8650 Triple-Core Processor	3x 2300.00 MHz	5.96	
+Intel(R) Pentium(R) 4 CPU 2.40GHz	1x 2400.00 MHz	24.57	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4400+	2x 1000.00 MHz	7.92	
+AMD Phenom(tm) II X4 940 Processor	4x 800.00 MHz	3.49	
+Pentium III (Coppermine)	2x 999.00 MHz	17.81	
+Intel(R) Pentium(R) 4 CPU 3.20GHz	2x 3200.00 MHz	12.06	
+Intel(R) Pentium(R) 4 CPU 1500MHz	1x 1495.00 MHz	46.56	
+AMD Turion(tm) 64 X2 Mobile Technology TL-58	2x 1900.00 MHz	10.10	
+Intel(R) Celeron(R) M processor 1.40GHz	1x 1395.00 MHz	80.94	
+Mobile AMD Athlon(tm) XP 2800+	1x 1459.00 MHz	18.04	
+Intel(R) Celeron(R) CPU420@ 1.60GHz	1x 1600.00 MHz	21.24	
+AMD Phenom(tm) 9750 Quad-Core Processor	4x 1200.00 MHz	4.29	
+Intel(R) Atom(TM) CPU N280 @ 1.66GHz	2x 1660.00 MHz	16.76	
+AMD Athlon(tm) X2 Dual-Core QL-60	2x 1900.00 MHz	10.59	
+Intel(R) Pentium(R) DualCPUT2370@ 1.73GHz	2x 1733.00 MHz	9.58	
+AMD Athlon(tm) XP 1900+	1x 1593.00 MHz	31.62	
+AMD Athlon(tm) XP 1800+	1x 1540.00 MHz	23.13	
+Intel(R) Pentium(R) M processor 1.73GHz	1x 1730.00 MHz	19.66	
+AMD Sempron(tm) Processor 3200+	1x 1000.00 MHz	25.47	
+VIA Esther processor 1500MHz	1x 1499.00 MHz	41.59	
+Intel(R) Core(TM)2 Quad CPUQ6700@ 2.66GHz	4x 2669.00 MHz	3.17	
+AMD Athlon(tm) 64 X2 Dual Core Processor 5000+	2x 1000.00 MHz	7.49	
+Intel(R) Xeon(R) CPU3040@ 1.86GHz	2x 1862.00 MHz	9.11	
+Intel(R) Pentium(R) DualCPUT2310@ 1.46GHz	2x 1463.00 MHz	11.60	
+Intel(R) Core(TM)2 Duo CPU P8400@ 2.26GHz	2x 2260.00 MHz	8.29	
+AMD Turion(tm) X2 Dual-Core Mobile RM-74	2x 600.00 MHz	8.97	
+Genuine Intel(R) CPU 575@ 2.00GHz	1x 1995.00 MHz	20.36	
+AMD Turion(tm) 64 X2 Mobile Technology TL-62	2x 800.00 MHz	8.84	
+AMD Turion(tm) 64 X2 Mobile Technology TL-56	2x 800.00 MHz	10.79	
+Intel(R) Celeron(R) CPU 2.80GHz	1x 2793.00 MHz	40.87	
+Intel(R) Pentium(R) 4 CPU 2.80GHz	2x 2800.00 MHz	11.70	
+Genuine Intel(R) CPU2140@ 1.60GHz	2x 1595.00 MHz	10.67	
+AMD Athlon(tm) 7750 Dual-Core Processor	2x 1350.00 MHz	7.45	
+Intel(R) Core(TM)2 Duo CPU E8400@ 3.00GHz	2x 2997.00 MHz	5.54	
+Intel(R) Core(TM)2 CPU T7400@ 2.16GHz	2x 2161.00 MHz	9.37	
+Intel(R) Pentium(R) 4 CPU 2.53GHz	1x 2525.00 MHz	48.08	
+Intel(R) Core(TM)2 Quad CPUQ9550@ 2.83GHz	4x 2830.00 MHz	3.24	
+Intel(R) Core(TM)2 CPU6700@ 2.66GHz	2x 2667.00 MHz	6.90	
+AMD Turion(tm) X2 Dual-Core Mobile RM-72	2x 500.00 MHz	11.86	
+Intel(R) Core(TM)2 Duo CPU T9400@ 2.53GHz	2x 2530.00 MHz	6.76	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4800+	2x 2512.00 MHz	8.73	
+Intel(R) Celeron(R) M CPU520@ 1.60GHz	1x 1600.00 MHz	22.07	
+Intel(R) Core(TM)2 Quad CPUQ8300@ 2.50GHz	4x 2497.00 MHz	3.35	
+PowerPC 740/750	1x 280.00 MHz	172.82	
+
+CPU CryptoHash
+--------------
+
+-CPU CryptoHash-
+(Unknown)	4x 1500.00 MHz	138.56	
+Intel(R) Atom(TM) CPU330 @ 1.60GHz	4x 1596.00 MHz	105.57	
+Intel(R) Core(TM)2 Duo CPU T5250@ 1.50GHz	2x 1500.00 MHz	102.95	
+Intel(R) Celeron(R) M processor900MHz	1x 900.00 MHz	24.34	
+Intel(R) Core(TM)2 CPU E8400@ 3.00GHz	2x 3000.00 MHz	163.39	
+Intel(R) Xeon(R) CPU E5405@ 2.00GHz	2x 1995.00 MHz	117.48	
+Intel(R) Core(TM) Duo CPUT2450@ 2.00GHz	2x 2000.00 MHz	127.24	
+Intel(R) Pentium(R) 4 CPU 2.00GHz	1x 1994.00 MHz	24.65	
+AMD Phenom(tm) 9350e Quad-Core Processor	4x 2000.00 MHz	237.01	
+AMD Turion(tm) X2 Ultra Dual-Core Mobile ZM-82	2x 600.00 MHz	100.06	
+AMD Athlon(tm) XP 3000+	1x 2158.00 MHz	66.54	
+Intel(R) Celeron(R) M CPU520@ 1.60GHz	1x 1600.00 MHz	52.31	
+Intel(R) Core(TM)2 Quad CPUQ6700@ 2.66GHz	4x 2669.00 MHz	264.06	
+AMD Athlon(tm) XP 1900+	1x 1593.00 MHz	31.63	
+Intel(R) Pentium(R) 4 CPU 3.20GHz	2x 3200.00 MHz	66.61	
+AMD Sempron(tm) 2600+	1x 1840.00 MHz	53.87	
+AMD Athlon(tm) 64 X2 Dual Core Processor 3800+	2x 2200.00 MHz	94.12	
+AMD Turion(tm) 64 X2 Mobile Technology TL-62	2x 800.00 MHz	119.43	
+AMD Athlon(tm) XP 2000+	1x 1667.00 MHz	45.76	
+AMD Athlon(tm) 64 Processor 3500+	1x 1000.00 MHz	62.20	
+AMD Turion(tm) 64 X2 Mobile Technology TL-56	2x 800.00 MHz	92.19	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4000+	2x 1000.00 MHz	97.04	
+Intel(R) Pentium(R) D CPU 3.00GHz	2x 3000.00 MHz	96.75	
+Mobile AMD Sempron(tm) Processor 3600+	1x 800.00 MHz	54.44	
+Intel(R) Core(TM)2 Quad CPUQ9650@ 3.00GHz	4x 2997.00 MHz	303.51	
+AMD Sempron(tm) Processor 3600+	1x 1000.00 MHz	43.98	
+Intel(R) Core(TM)2 Duo CPU T9400@ 2.53GHz	2x 2530.00 MHz	148.71	
+AMD Turion(tm) 64 X2 Mobile Technology TL-58	2x 1900.00 MHz	101.69	
+Intel(R) Core(TM)2 Duo CPU P7350@ 2.00GHz	2x 2000.00 MHz	103.95	
+VIA Esther processor 1500MHz	1x 1499.00 MHz	7.75	
+Intel(R) Core(TM)2 Duo CPU P8600@ 2.40GHz	2x 2400.00 MHz	150.44	
+Intel(R) Core(TM)2 Duo CPU T7700@ 2.40GHz	2x 2400.00 MHz	142.54	
+Intel(R) Core(TM)2 Duo CPU T5550@ 1.83GHz	2x 1829.00 MHz	122.42	
+Intel(R) Core(TM)2 Duo CPU T7250@ 2.00GHz	2x 2001.00 MHz	121.92	
+Intel(R) Core(TM)2 CPU6700@ 2.66GHz	2x 2667.00 MHz	163.64	
+Intel(R) Pentium(R) 4 CPU 2.40GHz	1x 2400.00 MHz	30.96	
+Intel(R) Core(TM)2 Quad CPUQ9400@ 2.66GHz	4x 2660.00 MHz	296.87	
+AMD Athlon(tm) 64 Processor 3200+	1x 1000.00 MHz	42.30	
+Intel(R) Pentium(R) DualCPUT3200@ 2.00GHz	2x 2000.00 MHz	88.54	
+Intel(R) Pentium(R) 4 CPU 2.26GHz	1x 2267.00 MHz	29.41	
+AMD Sempron(tm) Processor 3400+	1x 1000.00 MHz	53.84	
+AMD Sempron(tm) Processor 3000+	1x 1800.00 MHz	47.79	
+AMD Athlon(tm) XP 2400+	1x 1991.00 MHz	61.64	
+Intel(R) Atom(TM) CPU Z530 @ 1.60GHz	2x 1600.00 MHz	54.89	
+Pentium III (Coppermine)	1x 700.00 MHz	26.99	
+Intel(R) Core(TM) i7 CPU 920@ 2.67GHz	8x 3799.00 MHz	390.24	
+AMD Athlon(tm) 64 X2 Dual Core Processor 6000+	2x 3051.00 MHz	146.74	
+AMD Turion(tm) 64 Mobile Technology ML-37	1x 2000.00 MHz	42.21	
+Intel(R) Xeon(R) CPU3040@ 1.86GHz	2x 1862.00 MHz	127.83	
+AMD Athlon(tm) XP 2500+	1x 1792.00 MHz	39.66	
+Intel(R) Core(TM)2 Duo CPU T9500@ 2.60GHz	2x 2593.00 MHz	172.64	
+
+CPU Fibonacci
+-------------
+
+-CPU Fibonacci-
+(Unknown)	4x 1500.00 MHz	3.36	
+AMD Phenom(tm) 9500 Quad-Core Processor	4x 1100.00 MHz	3.06	
+Intel(R) Core(TM)2 Duo CPU T7250@ 2.00GHz	2x 2001.00 MHz	4.57	
+Intel(R) Pentium(R) 4 CPU 2.80GHz	1x 2791.00 MHz	5.65	
+AMD Athlon(tm) Processor	1x 1210.00 MHz	7.34	
+Intel(R) Core(TM)2 CPU T5200@ 1.60GHz	2x 1067.00 MHz	7.27	
+Intel(R) Atom(TM) CPU330 @ 1.60GHz	4x 1596.00 MHz	8.79	
+AMD Phenom(tm) 9150e Quad-Core Processor	4x 900.00 MHz	3.28	
+AMD Turion(tm) 64 Mobile Technology MK-36	1x 800.00 MHz	6.20	
+AMD Athlon(tm) 64 Processor 3200+	1x 1000.00 MHz	5.76	
+Intel(R) Core(TM)2 Quad CPUQ9400@ 2.66GHz	4x 2003.00 MHz	2.76	
+Intel(R) Core(TM)2 Duo CPU T7500@ 2.20GHz	1x 2200.00 MHz	4.09	
+AMD Athlon(tm) XP	1x 906.00 MHz	33.45	
+Intel(R) Core(TM)2 Quad CPUQ6700@ 2.66GHz	4x 2669.00 MHz	3.54	
+Intel(R) Pentium(R) 4 CPU 2.00GHz	1x 1994.00 MHz	8.70	
+Intel(R) Core(TM)2 Duo CPU E6550@ 2.33GHz	2x 2700.00 MHz	3.66	
+Intel(R) Core(TM)2 Duo CPU T7100@ 1.80GHz	2x 1801.00 MHz	4.79	
+Dual Core AMD Opteron(tm) Processor 165	2x 1979.00 MHz	4.26	
+Intel(R) Pentium(R) 4 CPU 2.40GHz	1x 2400.00 MHz	6.35	
+Intel(R) Core(TM)2 Duo CPU P8600@ 2.40GHz	1x 2400.00 MHz	3.37	
+AMD Turion(tm) X2 Dual-Core Mobile RM-70	2x 500.00 MHz	4.97	
+Intel(R) Pentium(R) 4 CPU 2.53GHz	1x 2525.00 MHz	10.36	
+Unknown CPU Type	1x 1660.00 MHz	5.73	
+Pentium III (Coppermine)	2x 999.00 MHz	10.22	
+Intel(R) Core(TM)2 CPU T5600@ 1.83GHz	2x 1000.00 MHz	5.24	
+Intel(R) Celeron(R) CPU 3.06GHz	1x 3059.00 MHz	3.96	
+AMD Phenom(tm) 9850 Quad-Core Processor	4x 1300.00 MHz	2.59	
+Intel(R) Pentium(R) 4 CPU 3.00GHz	2x 3458.00 MHz	4.98	
+AMD Sempron(tm) Processor LE-1200	1x 2109.00 MHz	6.08	
+Intel(R) Pentium(R) 4 CPU 2.80GHz	1x 2791.00 MHz	5.65	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4000+	2x 1000.00 MHz	4.12	
+AMD Athlon(tm) XP 1600+	1x 1398.00 MHz	6.39	
+Genuine Intel(R) CPU T2050@ 1.60GHz	2x 800.00 MHz	6.10	
+Intel(R) Celeron(R) CPU560@ 2.13GHz	1x 2128.00 MHz	4.78	
+AMD Phenom(tm) 8650 Triple-Core Processor	3x 2300.00 MHz	3.09	
+Intel(R) Core(TM) i7 CPU 920@ 2.67GHz	8x 3799.00 MHz	2.79	
+AMD Athlon(tm) 64 X2 Dual Core Processor 5000+	2x 1000.00 MHz	3.11	
+AMD Athlon(tm) XP 2500+	1x 1792.00 MHz	7.18	
+Intel(R) Xeon(R) CPU3040@ 1.86GHz	2x 1862.00 MHz	4.81	
+AMD Athlon(tm) X2 Dual-Core QL-60	2x 1900.00 MHz	4.35	
+Intel(R) Core(TM)2 CPU T7400@ 2.16GHz	2x 2161.00 MHz	4.98	
+AMD Turion(tm) 64 X2 Mobile Technology TL-60	2x 2000.00 MHz	4.19	
+AMD Turion(tm) 64 X2 Mobile Technology TL-52	2x 1600.00 MHz	5.45	
+AMD Athlon(tm) 64 X2 Dual Core Processor 6000+	2x 3051.00 MHz	2.75	
+Intel(R) Atom(TM) CPU N280 @ 1.66GHz	2x 1000.00 MHz	8.97	
+Intel(R) Core(TM)2 Quad CPUQ9550@ 2.83GHz	4x 2830.00 MHz	2.72	
+Intel(R) Core(TM)2 Duo CPU T7300@ 2.00GHz	2x 2001.00 MHz	4.77	
+AMD Sempron(tm) Processor 3600+	1x 1000.00 MHz	5.70	
+AMD Athlon(tm)	1x 2305.00 MHz	4.47	
+AMD Athlon(tm) X2 Dual Core Processor BE-2300	2x 1899.00 MHz	4.37	
+Intel(R) Core(TM)2 Duo CPU E6750@ 2.66GHz	2x 2671.00 MHz	4.10	
+PowerPC 740/750	1x 280.00 MHz	58.08	
+
+CPU N-Queens
+------------
+
+-CPU N-Queens-
+(Unknown)	4x 1500.00 MHz	5.31	
+AMD Athlon(tm) 64 X2 Dual Core Processor 5400+	2x 1000.00 MHz	15.06	
+Genuine Intel(R) CPU T2080@ 1.73GHz	2x 1730.00 MHz	33.31	
+Intel(R) Core(TM)2 Duo CPU T5450@ 1.66GHz	2x 1660.00 MHz	14.49	
+Intel(R) Core(TM)2 QuadCPU Q9300@ 2.50GHz	4x 3000.00 MHz	14.10	
+Intel(R) Atom(TM) CPU Z530 @ 1.60GHz	2x 1600.00 MHz	18.70	
+Intel(R) Atom(TM) CPU330 @ 1.60GHz	4x 1596.00 MHz	26.07	
+AMD Athlon(tm) XP 1600+	1x 1398.00 MHz	19.85	
+Intel(R) Core(TM)2 Quad CPUQ6700@ 2.66GHz	4x 2669.00 MHz	17.01	
+Intel(R) Pentium(R) 4 CPU 2.60GHz	2x 2600.00 MHz	14.83	
+Intel(R) Core(TM)2 CPU6320@ 1.86GHz	2x 1860.00 MHz	16.54	
+Intel(R) Core(TM)2 Extreme CPU X7900@ 2.80GHz	2x 2800.00 MHz	7.02	
+Intel(R) Core(TM)2 QuadCPU Q9450@ 2.66GHz	4x 2000.00 MHz	12.97	
+Intel(R) Core(TM)2 CPU E8400@ 3.00GHz	2x 3000.00 MHz	7.84	
+Pentium III (Coppermine)	2x 999.00 MHz	35.15	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4000+	2x 1000.00 MHz	19.51	
+AMD Turion(tm) 64 X2 Mobile Technology TL-50	2x 800.00 MHz	23.26	
+Intel(R) Pentium(R) D CPU 3.40GHz	2x 3400.00 MHz	13.51	
+Pentium III (Coppermine)	2x 999.00 MHz	35.15	
+AMD Athlon(tm) 64 X2 Dual Core Processor 3600+	2x 1000.00 MHz	22.98	
+AMD Athlon(tm) 64 X2 Dual Core Processor 5200+	2x 2705.00 MHz	14.95	
+AMD Athlon(tm) 64 X2 Dual-Core Processor TK-55	2x 800.00 MHz	20.49	
+Intel(R) Core(TM)2 Duo CPU E6850@ 3.00GHz	2x 3000.00 MHz	7.52	
+Intel(R) Core(TM)2 Duo CPU P8400@ 2.26GHz	2x 2260.00 MHz	10.39	
+Intel(R) Core(TM)2 Quad CPUQ9400@ 2.66GHz	4x 2003.00 MHz	18.25	
+AMD Athlon(tm) XP 1900+	1x 1593.00 MHz	26.74	
+Intel(R) Core(TM) Duo CPUT2350@ 1.86GHz	2x 1867.00 MHz	22.01	
+Intel(R) Core(TM)2 Duo CPU E8400@ 3.00GHz	2x 2997.00 MHz	7.66	
+AMD Athlon(tm) XP 2800+	1x 2087.00 MHz	13.55	
+Genuine Intel(R) CPU T2500@ 2.00GHz	2x 2000.00 MHz	28.39	
+AMD Turion(tm) 64 X2 Mobile Technology TL-58	2x 1900.00 MHz	20.02	
+Intel(R) Pentium(R) 4 CPU 3.40GHz	2x 3400.00 MHz	15.30	
+Intel(R) Celeron(R) M processor900MHz	1x 900.00 MHz	33.26	
+AMD Athlon(tm) X2 Dual-Core QL-60	2x 1900.00 MHz	20.34	
+Intel(R) Core(TM)2 Duo CPU T5850@ 2.16GHz	2x 2167.00 MHz	10.37	
+Mobile AMD Athlon(tm) XP-M Processor 3000+	1x 799.00 MHz	52.78	
+AMD Phenom(tm) 9500 Quad-Core Processor	4x 1100.00 MHz	10.06	
+Intel(R) Celeron(R) M processor 1.40GHz	1x 1395.00 MHz	94.05	
+Mobile AMD Athlon(tm) XP 2800+	1x 1459.00 MHz	13.36	
+AMD Athlon(tm) 64 Processor 3000+	1x 1800.00 MHz	18.08	
+Genuine Intel(R) CPU L2400@ 1.66GHz	2x 1660.00 MHz	19.55	
+AMD Sempron(tm) Processor 2800+	1x 1999.00 MHz	17.23	
+AMD Sempron(tm) 2600+	1x 1840.00 MHz	14.69	
+Intel(R) Pentium(R) M processor 1600MHz	1x 1600.00 MHz	15.23	
+Genuine Intel(R) CPU 575@ 2.00GHz	1x 1995.00 MHz	15.88	
+Genuine Intel(R) CPU T2300@ 1.66GHz	2x 1660.00 MHz	27.25	
+Intel(R) Pentium(R) M processor 1.70GHz	1x 1700.00 MHz	22.55	
+AMD Athlon(tm) XP processor 1800+	1x 1533.00 MHz	17.55	
+Intel(R) Core(TM)2 Duo CPU T5750@ 2.00GHz	2x 1994.00 MHz	11.14	
+Intel(R) Core(TM)2 Duo CPU T7250@ 2.00GHz	2x 2001.00 MHz	11.39	
+Intel(R) Pentium(R) 4 CPU 1500MHz	1x 1495.00 MHz	28.46	
+
+CPU Zlib
+--------
+
+-CPU Zlib-
+(Unknown)	4x 1500.00 MHz	0.18	
+PowerPC 740/750	1x 280.00 MHz	2150.60	
+
+FPU FFT
+-------
+
+-FPU FFT-
+(Unknown)	4x 1500.00 MHz	9.86	
+Intel(R) Pentium(R) DualCPUT3200@ 2.00GHz	2x 2000.00 MHz	5.50	
+Intel(R) Celeron(R) CPU 2.53GHz	1x 2527.00 MHz	10.12	
+Genuine Intel(R) CPU T1350@ 1.86GHz	1x 1867.00 MHz	83.47	
+AMD Turion(tm) 64 X2 Mobile Technology TL-60	2x 2000.00 MHz	8.22	
+AMD Turion(tm) X2 Dual-Core Mobile RM-70	2x 500.00 MHz	8.31	
+Intel(R) Core(TM) Duo CPUT2350@ 1.86GHz	2x 1867.00 MHz	5.36	
+Intel(R) Core(TM)2 Duo CPU T5750@ 2.00GHz	2x 1994.00 MHz	4.23	
+Intel(R) Core(TM)2 Duo CPU T9500@ 2.60GHz	2x 2593.00 MHz	3.12	
+AMD Athlon(tm) X2 Dual-Core QL-60	2x 1900.00 MHz	9.08	
+Intel(R) Core(TM)2 Duo CPU T5250@ 1.50GHz	2x 1500.00 MHz	5.51	
+Mobile AMD Athlon(tm) XP-M Processor 3000+	1x 799.00 MHz	43.15	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4000+	2x 1000.00 MHz	8.00	
+AMD Athlon(tm) XP processor 1800+	1x 1533.00 MHz	25.14	
+Genuine Intel(R) CPU2140@ 1.60GHz	2x 1595.00 MHz	5.44	
+Intel(R) Core(TM)2 Quad CPUQ6600@ 2.40GHz	4x 2400.00 MHz	1.63	
+Intel(R) Core(TM)2 Duo CPU P7350@ 2.00GHz	2x 2000.00 MHz	4.76	
+Genuine Intel(R) CPU T2080@ 1.73GHz	2x 1730.00 MHz	4.99	
+Intel(R) Celeron(R) CPU 2.50GHz	1x 2492.00 MHz	14.46	
+Intel(R) Pentium(R) M processor 1.86GHz	1x 1867.00 MHz	11.88	
+Intel(R) Core(TM)2 CPU T5200@ 1.60GHz	2x 1600.00 MHz	6.49	
+Intel(R) Core(TM)2 CPU6320@ 1.86GHz	2x 1860.00 MHz	4.91	
+AMD Athlon(tm) XP	1x 906.00 MHz	84.35	
+AMD Athlon(tm) 64 Processor 3000+	1x 1800.00 MHz	25.19	
+Intel(R) Pentium(R) 4 CPU 2.60GHz	2x 2600.00 MHz	8.54	
+Intel(R) Core(TM)2 Quad CPUQ9400@ 2.66GHz	4x 2660.00 MHz	1.49	
+Intel(R) Pentium(R) M processor 1600MHz	1x 1600.00 MHz	13.50	
+Pentium(R) Dual-Core CPU T4200@ 2.00GHz	2x 2000.00 MHz	4.62	
+Intel(R) Core(TM)2 Quad CPU @ 2.40GHz	4x 2400.00 MHz	1.70	
+Intel(R) Core(TM)2 Quad CPUQ8300@ 2.50GHz	4x 2497.00 MHz	1.66	
+Intel(R) Core(TM)2 Extreme CPU X7900@ 2.80GHz	2x 2800.00 MHz	3.06	
+Intel(R) Celeron(R) D CPU 3.20GHz	1x 3196.00 MHz	8.55	
+AMD Sempron(tm) 2600+	1x 1840.00 MHz	20.95	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4400+	2x 1000.00 MHz	6.80	
+Intel(R) Celeron(R) CPU 2.66GHz	1x 2666.00 MHz	9.89	
+Intel(R) Core(TM) Duo CPUT2450@ 2.00GHz	2x 2000.00 MHz	4.33	
+Intel(R) Celeron(R) M CPU520@ 1.60GHz	1x 1600.00 MHz	11.35	
+Intel(R) Pentium(R) 4 CPU 3.06GHz	2x 3065.00 MHz	7.45	
+Intel(R) Core(TM)2 CPU4300@ 1.80GHz	2x 1800.00 MHz	5.37	
+Intel(R) Core(TM)2 CPU6400@ 2.13GHz	2x 2128.00 MHz	4.68	
+AMD Turion(tm) 64 Mobile Technology MK-36	1x 800.00 MHz	19.96	
+Intel(R) Core(TM)2 CPU6600@ 2.40GHz	2x 2400.00 MHz	3.55	
+Intel(R) Core(TM)2 Duo CPU T7250@ 2.00GHz	2x 2001.00 MHz	4.16	
+Intel(R) Celeron(R) M processor900MHz	1x 900.00 MHz	24.21	
+AMD Sempron(tm) Processor 3400+	1x 1000.00 MHz	17.11	
+AMD Athlon(tm) XP 2500+	1x 1792.00 MHz	27.33	
+AMD Sempron(tm) Processor 3000+	1x 1800.00 MHz	18.94	
+AMD Athlon(tm) XP 2200+	1x 1782.00 MHz	22.20	
+Intel(R) Pentium(R) 4 CPU 3.06GHz	2x 3065.00 MHz	7.45	
+AMD Processor model unknown	2x 3006.00 MHz	5.24	
+AMD Turion(tm) 64 X2 Mobile Technology TL-62	2x 800.00 MHz	7.52	
+
+FPU Raytracing
+--------------
+
+-FPU Raytracing-
+(Unknown)	4x 1500.00 MHz	5.08	
+Intel(R) Core(TM) Duo CPUT2450@ 2.00GHz	2x 2000.00 MHz	28.36	
+AMD Athlon(tm) XP 2200+	1x 1782.00 MHz	29.74	
+Intel(R) Pentium(R) DualCPUT2370@ 1.73GHz	2x 1733.00 MHz	25.82	
+AMD Sempron(tm) Processor 3200+	1x 1000.00 MHz	30.19	
+AMD Athlon(tm) 64 X2 Dual-Core Processor TK-55	2x 800.00 MHz	16.47	
+Intel(R) Core(TM)2 CPU6600@ 2.40GHz	2x 2400.00 MHz	11.24	
+Intel(R) Core(TM)2 Duo CPU T5270@ 1.40GHz	2x 1400.00 MHz	32.81	
+AMD Athlon(tm) 64 X2 Dual-Core Processor TK-53	2x 800.00 MHz	18.47	
+Intel(R) Pentium(R) M processor 1.86GHz	1x 1867.00 MHz	28.20	
+Intel(R) Core(TM)2 Duo CPU T5750@ 2.00GHz	2x 1994.00 MHz	16.38	
+AMD Turion(tm) 64 Mobile Technology ML-32	1x 800.00 MHz	28.43	
+Intel(R) Celeron(R) CPU530@ 1.73GHz	1x 2593.00 MHz	17.55	
+Intel(R) Core(TM) i7 CPU 920@ 2.67GHz	8x 3799.00 MHz	4.73	
+Intel(R) Core(TM)2 Quad CPUQ9650@ 3.00GHz	4x 2997.00 MHz	18.84	
+AMD Turion(tm) 64 Mobile Technology MK-36	1x 800.00 MHz	30.84	
+Intel(R) Pentium(R) D CPU 3.40GHz	2x 3400.00 MHz	25.42	
+AMD Athlon(tm) X2 Dual-Core QL-60	2x 1900.00 MHz	18.30	
+Intel(R) Pentium(R) III CPU - S 1400MHz	1x 1392.00 MHz	33.36	
+AMD Phenom(tm) II X4 20 Processor	4x 3654.00 MHz	13.29	
+Intel(R) Core(TM)2 CPU E8400@ 3.00GHz	2x 3000.00 MHz	15.79	
+Intel(R) Pentium(R) 4 CPU 2.66GHz	1x 2676.00 MHz	32.38	
+Intel(R) Pentium(R) 4 CPU 2.60GHz	2x 2600.00 MHz	57.37	
+Intel(R) Core(TM)2 Duo CPU P9500@ 2.53GHz	2x 2535.00 MHz	5.51	
+Intel(R) Celeron(R) M processor900MHz	1x 900.00 MHz	64.67	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4800+	2x 2512.00 MHz	12.80	
+Intel(R) Pentium(R) M processor 1.73GHz	1x 1730.00 MHz	27.69	
+Genuine Intel(R) CPU T2080@ 1.73GHz	2x 1730.00 MHz	31.11	
+AMD Athlon(tm) 64 Processor 4000+	1x 1000.00 MHz	20.49	
+Intel(R) Pentium(R) 4 CPU 2.53GHz	1x 2525.00 MHz	36.54	
+Intel(R) Celeron(R) CPU560@ 2.13GHz	1x 2128.00 MHz	21.15	
+Intel(R) Core(TM)2 Extreme CPU X7900@ 2.80GHz	2x 2800.00 MHz	18.27	
+Intel(R) Core(TM)2 Duo CPU T9400@ 2.53GHz	2x 2530.00 MHz	5.59	
+AMD Athlon(tm) 64 X2 Dual Core Processor 6400+	2x 1000.00 MHz	10.93	
+Intel(R) Celeron(R) M CPU420@ 1.60GHz	1x 1599.00 MHz	37.00	
+Intel(R) Xeon(R) CPU E5405@ 2.00GHz	2x 1995.00 MHz	17.81	
+Genuine Intel(R) CPU2140@ 1.60GHz	2x 1595.00 MHz	22.05	
+Intel(R) Pentium(R) M processor 1700MHz	1x 1700.00 MHz	27.28	
+Pentium II (Deschutes)	1x 401.00 MHz	124.07	
+Intel(R) Core(TM)2 Duo CPU T8100@ 2.10GHz	2x 2094.00 MHz	23.76	
+Intel(R) Core(TM)2 CPU4300@ 1.80GHz	2x 1800.00 MHz	18.17	
+AMD Athlon(tm) XP 3000+	1x 2158.00 MHz	23.07	
+AMD Phenom(tm) 8450 Triple-Core Processor	3x 1100.00 MHz	18.56	
+Intel(R) Core(TM)2 Duo CPU P8400@ 2.26GHz	2x 2260.00 MHz	12.07	
+AMD Athlon(tm) XP 1800+	1x 1540.00 MHz	31.73	
+Intel(R) Celeron(R) CPU550@ 2.00GHz	1x 1995.00 MHz	23.90	
+Intel(R) Pentium(R) 4 CPU 3.20GHz	2x 3200.00 MHz	31.44	
+Intel(R) Pentium(R) M processor 1.80GHz	1x 1800.00 MHz	27.13	
+Intel(R) Celeron(R) CPU 2.80GHz	1x 2793.00 MHz	81.05	
+Genuine Intel(R) CPU T1350@ 1.86GHz	1x 1867.00 MHz	222.18	
+Intel(R) Pentium(R) 4 CPU 2.80GHz	1x 2791.00 MHz	28.66	
+PowerPC 740/750	1x 280.00 MHz	161.31	
+
+GPU Drawing
+-----------
+
+-GPU Drawing-
